@@ -1,0 +1,11 @@
+DOMAIN-KEYWORD,mcc234,英国节点
+DOMAIN-SUFFIX,entsrv-uk.vodafone.com,英国节点
+DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com,英国节点
+IP-CIDR,88.82.0.0/19,英国节点
+IP-CIDR,148.252.160.0/19,英国节点
+IP-CIDR,148.252.160.0/19,英国节点
+DOMAIN,vfgb.idemia.io,英国节点
+IP-CIDR,46.68.0.0/17,英国节点
+IP-CIDR,87.194.0.0/16,英国节点
+DOMAIN-SUFFIX,ct.ee.co.uk,英国节点
+IP-CIDR,31.94.0.0/16,英国节点
